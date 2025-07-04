@@ -63,12 +63,6 @@ A Verilog testbench is written to simulate a sample gameplay where:
 | Simulation     | Dec 24, 2024     | 30%     |
 | FPGA Demo      | Jan 3, 2025      | 60%     |
 
-## ⚠️ Notes
-
-- All module interfaces must remain unchanged (as per assignment rules).
-- Project is designed individually or in groups of two.
-- Use of AI tools for code generation was not allowed.
-
 ## 📸 Visuals
 
 | Component | Control |
